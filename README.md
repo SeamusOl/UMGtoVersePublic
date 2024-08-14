@@ -1,6 +1,6 @@
 # UMGtoVersePublic
-**Welcome to my UMG to Verse Converter!** ;NBSP
-*Made by: @MooseInDaCut*
+**Welcome to my UMG to Verse Converter!**
+  *Made by: @MooseInDaCut*
 
 This is still a beta version of the program, please report any bugs or issues by either dm'ing
 me on Twitter @mooseindacut or on Discord @mooseindacut
