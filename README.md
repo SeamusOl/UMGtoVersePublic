@@ -3,7 +3,7 @@
 *Made by: @MooseInDaCut*
 
 This is still a beta version of the program, please report any bugs or issues on
-either Twitter or Discord *@mooseindacut*
+either [Twitter](https://twitter.com/MooseInDaCut) or Discord *@MooseInDaCut*
 
 To use this tool simply run the .exe and wait for the website to open.
 This tool hosts a local flask server so make sure to keep the terminal open.
