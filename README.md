@@ -1,9 +1,9 @@
 # UMGtoVersePublic
 **Welcome to my UMG to Verse Converter!**
-  *Made by: @MooseInDaCut*
+*Made by: @MooseInDaCut*
 
-This is still a beta version of the program, please report any bugs or issues by either dm'ing
-me on Twitter @mooseindacut or on Discord @mooseindacut
+This is still a beta version of the program, please report any bugs or issues on
+either Twitter or Discord *@mooseindacut*
 
 To use this tool simply run the .exe and wait for the website to open.
 This tool hosts a local flask server so make sure to keep the terminal open.
@@ -21,6 +21,6 @@ Once your UI has been converted you can click "copy to clipboard" and the text s
 if the copying does not work click "copy to clipboard" to select everything and then manually
 press Ctrl+C to copy. 
 
-If you have any questions or concerns reach out to me on Twitter or Discord @mooseindacut
+If you have any questions or concerns reach out to me on Twitter or Discord *@mooseindacut*
 
 Enjoy!!!
