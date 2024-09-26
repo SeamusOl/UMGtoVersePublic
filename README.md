@@ -23,4 +23,4 @@ press Ctrl+C to copy.
 
 If you have any questions or concerns reach out to me on Twitter or Discord *@mooseindacut*
 
-Enjoy!!!
+Enjoy!!
